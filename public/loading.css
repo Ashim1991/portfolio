@@ -1,0 +1,7 @@
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+   z-index: 99999;
+   background: #145369 url(https://i0.wp.com/s3.scoopwhoop.com/anj/loading/594155876.gif?resize=160,120) no-repeat center;
+  }
